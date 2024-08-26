@@ -1,3 +1,1 @@
-#Neovim congif
-
-to be placed in .config file
+to be placed in ~/.config/nvim. most dependencies are installed automatically.
